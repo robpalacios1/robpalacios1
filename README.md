@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, DEVops**
 
-- 👨‍💻 All of my projects are available at [robpalacios1.github.io](robpalacios1.github.io)
+- 👨‍💻 All of my projects are available at [https://robpalacios1.github.io](robpalacios1.github.io)
 
 - 💬 Ask me about **React.js, Javascript, CSS3**
 
