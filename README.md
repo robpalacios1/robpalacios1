@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, DEVops**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://robpalacios1.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](robpalacios1.github.io)
 
 - 💬 Ask me about **React.js, Javascript, CSS3**
 
@@ -21,7 +21,7 @@
 
 <p align="center">
 <a href="https://twitter.com/robpalacios11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="robpalacios11" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roberto-palacios-32917654/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/roberto-palacios-32917654/" height="30" width="30" /></a>
-<a href="https://fb.com/https://www.facebook.com/roberto.palacios.397" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/roberto.palacios.397" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/roberto-palacios-32917654" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roberto-palacios-32917654" height="30" width="30" /></a>
+<a href="https://fb.com/roberto.palacios.397" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="roberto.palacios.397" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/robpalacios1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="robpalacios1" height="30" width="30" /></a>
 </p>
