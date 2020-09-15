@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roberto Palacios</h1>
-<h3 align="center">A passionate FullStack developer with Javascript</h3>
+<h3 align="center">A passionate FullStack developer with Javascript from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robpalacios1" alt="robpalacios1" /> </p>
 
