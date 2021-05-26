@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Arroyo Consulting LLC**
 
-- 🌱 I’m currently learning **Python, SQL, DEVops**
+- 🌱 I’m currently learning **Python, SQL, DevOps**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://robpalacios1.github.io/)
 
