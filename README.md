@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robpalacios1" alt="robpalacios1" /> </p>
 
-- 🔭 I’m currently working at **Koombea**
+- 🔭 I’m currently working at **Arroyo Consulting LLC**
 
 - 🌱 I’m currently learning **Python, SQL, DEVops**
 
