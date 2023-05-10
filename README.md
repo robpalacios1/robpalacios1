@@ -19,7 +19,7 @@ src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="YAML" width="40" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="40" height="40"/> <img                                                                                                     
+src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="40" height="40"/> <img                                                                                                     
                                                                                                        
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&hide=html" alt="robpalacios1" /></p>
 
