@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roberto Palacios</h1>
-<h3 align="center">A passionate FullStack developer with Javascript from Colombia</h3>
+<h3 align="center">A DevOps Engineer developer with Poweshell and Bash from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robpalacios1" alt="robpalacios1" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://robpalacios1.github.io/)
 
-- 💬 Ask me about **React.js, Javascript, CSS3**
+- 💬 Ask me about **CI/CD, Azure Pipelines, Scripts**
 
 - 📫 How to reach me **robpalacios1@hotmail.com**
 
