@@ -20,7 +20,8 @@ src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash
 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="YAML" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="40"/> <img                                     src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="40"/> <img                          
-src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="80" height="40"/> <img 
+src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="80" height="40"/> <img
+src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="kubernetes" width="80" height="40"/> <img                                                                                                                       
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&hide=html" alt="robpalacios1" /></p>
 
