@@ -21,7 +21,7 @@ src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="
 src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="YAML" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="40"/> <img                                     src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="40"/> <img                          
 src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="80" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="60"/> <img                                                                                                                       
+src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="65" height="60"/> <img                                                                                                                       
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&hide=html" alt="robpalacios1" /></p>
 
