@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roberto Palacios</h1>
-<h3 align="center">A DevOps Engineer developer with Poweshell and Bash from Colombia</h3>
+<h3 align="center">A DevOps Engineer Developer with Powershell, Python and Bash from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robpalacios1" alt="robpalacios1" /> </p>
 
@@ -19,8 +19,7 @@ src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="100" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="YAML" width="40" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="40"/> <img                                                                                                     
-                                                                                                       
+src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="40"/> <img                                     src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="40"/> <img                                                                                                                                                                       
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&hide=html" alt="robpalacios1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true" alt="robpalacios1" /></p>
