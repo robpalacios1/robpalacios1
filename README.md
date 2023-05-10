@@ -18,7 +18,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width
 src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="80" height="45"/> <img 
 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="100" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="YAML" width="60" height="40"/> <img
+src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="YAML" width="50" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="40"/> <img                                     src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="40"/> <img                          
 src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="80" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="60"/> <img                                 
