@@ -14,7 +14,7 @@
 - 📫 How to reach me **robpalacios1@hotmail.com**
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> <img 
-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="40" height="40"/> <img
+src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="80" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img 
 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="100" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img
