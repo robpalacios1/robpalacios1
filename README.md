@@ -15,6 +15,7 @@
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> <img 
 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img
+scr="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="git" width="40" height="40"/> <img                                                                                                     
                                                                                                                            
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&hide=html" alt="robpalacios1" /></p>
 
