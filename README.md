@@ -22,7 +22,7 @@ src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" widt
 src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="80" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="60"/> <img                                 
 src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" width="60" height="40"/> <img           
-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="80" height="40"/> <img                                                                                                               
+src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="90" height="40"/> <img                                                                                                               
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&hide=html" alt="robpalacios1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true" alt="robpalacios1" /></p>
