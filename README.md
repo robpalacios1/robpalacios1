@@ -27,7 +27,7 @@ src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" w
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=transparent" alt="robpalacios1"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact" alt="robpalacios1" />
 </a>
 
