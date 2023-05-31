@@ -23,9 +23,6 @@ src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kube
 src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="60"/> <img                                 
 src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" width="60" height="40"/> <img           
 src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="85" height="40"/> <img                                                                                                               
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=transparent" alt="robpalacios1" /><p>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="robpalacios1" /> <p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=transparent" alt="robpalacios1"/>
