@@ -27,7 +27,7 @@ src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" w
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="robpalacios1" /> <p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true" alt="robpalacios1" /></p>
+
 
 
 <p align="center">
