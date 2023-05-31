@@ -25,10 +25,10 @@ src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" w
 src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="85" height="40"/> <img                                                                                                               
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=transparent" alt="robpalacios1"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=transparent border_color:e4e2e2" alt="robpalacios1"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact" alt="robpalacios1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact border_color:e4e2e2" alt="robpalacios1" />
 </a>
 
 
