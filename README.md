@@ -28,7 +28,7 @@ src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" w
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="robpalacios1" /> <p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=transparent />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=transparent" alt="robpalacios1"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="robpalacios1" />
