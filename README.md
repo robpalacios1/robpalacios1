@@ -24,7 +24,7 @@ src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" 
 src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" width="60" height="40"/> <img           
 src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="85" height="40"/> <img                                                                                                               
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&hide=html" alt="robpalacios1" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="robpalacios1" /><p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true" alt="robpalacios1" /></p>
 
