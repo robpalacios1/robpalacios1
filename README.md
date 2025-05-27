@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Kranio**
 
-- 🌱 I’m currently learning **Python, SQL, DevOps**
+- 🌱 I’m currently learning **Python, AWS, DevOps**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://robpalacios1.github.io/)
 
