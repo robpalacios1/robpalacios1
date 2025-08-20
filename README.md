@@ -20,8 +20,7 @@ src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="
 src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="YAML" width="80" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="40"/> <img                                     
 src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="80" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="60"/> <img                                 
-src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" width="60" height="40"/> <img           
+src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="60"/> <img                                         
 src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="85" height="40"/> <img                                                                                                               
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
