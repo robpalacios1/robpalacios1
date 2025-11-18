@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hola%2C+Soy+Roberto+Palacios;%F0%9F%9A%80+DevOps+Engineer;%E2%98%81%EF%B8%8F+Cloud+Architect;%F0%9F%92%BB+Infrastructure+as+Code;%F0%9F%9B%A0%EF%B8%8F+Automation+Enthusiast;%F0%9F%94%A5+CI%2FCD+Specialist)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hola%2C+Soy+Roberto+Palacios;%F0%9F%9A%80+DevOps+Engineer;%E2%98%81%EF%B8%8F+Cloud+Architect;%F0%9F%92%BB+Infrastructure+as+Code;%F0%9F%9B%A0%EF%B8%8F+Automation+Enthusiast;%F0%9F%94%A5+CI%2FCD+Specialist)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=🚀%20DevOps%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=🚀%20DevOps%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robpalacios1)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robpalacios1@hotmail.com)
@@ -124,15 +124,15 @@ hobbies: ["🚀 Automatización", "☁️ Cloud Computing", "🐧 Linux", "📚 
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&hide=html,css" alt="Top Languages" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robpalacios1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="robpalacios1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robpalacios1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats" />
   
 </div>
 
@@ -152,7 +152,7 @@ hobbies: ["🚀 Automatización", "☁️ Cloud Computing", "🐧 Linux", "📚 
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robpalacios1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robpalacios1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&title=GitHub%20Activity)
   
 </div>
 
@@ -162,7 +162,11 @@ hobbies: ["🚀 Automatización", "☁️ Cloud Computing", "🐧 Linux", "📚 
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/robpalacios1/robpalacios1/main/dist/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robpalacios1/robpalacios1/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robpalacios1/robpalacios1/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/robpalacios1/robpalacios1/output/dist/github-contribution-grid-snake.svg" />
+  </picture>
   
 </div>
 
@@ -230,7 +234,7 @@ hobbies: ["🚀 Automatización", "☁️ Cloud Computing", "🐧 Linux", "📚 
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Footer" />
   
   ### ⭐ **Si te gusta lo que ves, no dudes en darle una estrella!** ⭐
   
