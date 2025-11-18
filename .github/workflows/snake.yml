@@ -5,6 +5,11 @@ on:
     # Runs every day at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch: # Allows manual execution
+  push:
+    branches:
+      - master
+    paths:
+      - '.github/workflows/snake.yml'
 
 jobs:
   build:

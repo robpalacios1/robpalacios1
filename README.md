@@ -162,7 +162,7 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 
 <div align="center">
   
-  ![Snake animation](https://github.com/robpalacios1/robpalacios1/blob/output/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/robpalacios1/robpalacios1/output/dist/github-contribution-grid-snake.svg)
   
 </div>
 
