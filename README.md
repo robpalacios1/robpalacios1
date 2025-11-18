@@ -1,39 +1,80 @@
-<h1 align="center">Hi 👋, I'm Roberto Palacios</h1>
-<h3 align="center">A DevOps Engineer Developer with Powershell, Python and Bash from Colombia</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hola%2C+Soy+Roberto+Palacios;DevOps+Engineer+%F0%9F%9A%80;Cloud+Architect+%E2%98%81%EF%B8%8F;Infrastructure+as+Code" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robpalacios1" alt="robpalacios1" /> </p>
+<div align="center">
+  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:robpalacios1@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+   <a href="https://tu-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 🔭 I’m currently working at **Kranio**
+<br/>
 
-- 🌱 I’m currently learning **Python, AWS, DevOps**
+<h2 align="center">⚡ About Me</h2>
+<div align="center">
+  <p>
+    Soy un Ingeniero DevOps apasionado por la automatización y la nube. Transformo procesos manuales en pipelines eficientes.
+  </p>
+</div>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://robpalacios1.github.io/)
+---
 
-- 💬 Ask me about **CI/CD, Azure Pipelines, Scripts**
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
-- 📫 How to reach me **robpalacios1@hotmail.com**
+<div align="center">
+  
+  <h3 align="center">Cloud & Infrastructure</h3>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  
+  <br/><br/>
+  
+  <h3 align="center">CI/CD & Containers</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="80" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="80" height="45"/> <img                                                                               src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" alt="azure" width="80" height="45"/> <img                                                                               
-src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="100" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="YAML" width="80" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="40"/> <img                                     
-src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="80" height="40"/> <img
-src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="60"/> <img                                         
-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="85" height="40"/> <img                                                                                                               
+  <br/><br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=transparent" alt="robpalacios1"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact" alt="robpalacios1" />
-</a>
+  <h3 align="center">Scripting & Backend</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
 
+<br/>
 
-<p align="center">
-<a href="https://twitter.com/robpalacios11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="robpalacios11" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/roberto-palacios-32917654" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roberto-palacios-32917654" height="30" width="30" /></a>
-<a href="https://fb.com/roberto.palacios.397" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="roberto.palacios.397" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/robpalacios1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="robpalacios1" height="30" width="30" /></a>
-</p>
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <a href="https://github.com/robpalacios1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  
+  <a href="https://github.com/robpalacios1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&theme=tokyonight&langs_count=8"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robpalacios1&theme=tokyonight" alt="robpalacios1" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=robpalacios1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
