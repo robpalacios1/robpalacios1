@@ -191,10 +191,8 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 
 <div align="center">
   
-  ![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Kubernetes Certified](https://img.shields.io/badge/Kubernetes-Certified%20Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-  ![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-  ![Docker Certified](https://img.shields.io/badge/Docker-Certified%20Associate-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
 </div>
 
