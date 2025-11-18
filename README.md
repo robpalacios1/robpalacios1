@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hola%2C+Soy+Roberto+Palacios;%F0%9F%9A%80+DevOps+Engineer;%E2%98%81%EF%B8%8F+Cloud+Architect;%F0%9F%92%BB+Infrastructure+as+Code;%F0%9F%9B%A0%EF%B8%8F+Automation+Enthusiast;%F0%9F%94%A5+CI%2FCD+Specialist)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I%27m+Roberto+Palacios;%F0%9F%9A%80+DevOps+Engineer;%E2%98%81%EF%B8%8F+Cloud+Architect;%F0%9F%92%BB+Infrastructure+as+Code;%F0%9F%9B%A0%EF%B8%8F+Automation+Enthusiast;%F0%9F%94%A5+CI%2FCD+Specialist)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=🚀%20DevOps%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
   
@@ -15,15 +15,15 @@
 
 <div align="center">
   
-  ### 👨‍💻 **Transformando ideas en infraestructura escalable y automatizada**
+  ### 👨‍💻 **Transforming ideas into scalable and automated infrastructure**
   
-  🔥 **Apasionado por la automatización** | ☁️ **Experto en Cloud** | 🛠️ **Especialista en DevOps** | ⚡ **Enfocado en resultados**
+  🔥 **Passionate about automation** | ☁️ **Cloud Expert** | 🛠️ **DevOps Specialist** | ⚡ **Results-driven**
   
 </div>
 
 ---
 
-## 🎯 **Sobre Mí**
+## 🎯 **About Me**
 
 <div align="center">
   
@@ -33,16 +33,16 @@ role: DevOps Engineer & Cloud Architect
 location: Remote / On-site
 pronouns: "He/Him"
 current_focus: "Kubernetes | Terraform | AWS | CI/CD Pipelines"
-hobbies: ["🚀 Automatización", "☁️ Cloud Computing", "🐧 Linux", "📚 Aprendizaje Continuo"]
+hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Continuous Learning"]
 ```
 
-**Soy un Ingeniero DevOps apasionado por transformar procesos manuales en pipelines eficientes y automatizados. Me especializo en construir infraestructuras escalables, seguras y resilientes en la nube. Mi objetivo es optimizar el ciclo de vida del desarrollo mediante prácticas DevOps y cultura SRE.**
+**I'm a passionate DevOps Engineer dedicated to transforming manual processes into efficient and automated pipelines. I specialize in building scalable, secure, and resilient cloud infrastructures. My goal is to optimize the development lifecycle through DevOps practices and SRE culture.**
 
 </div>
 
 ---
 
-## 🛠️ **Stack Tecnológico**
+## 🛠️ **Tech Stack**
 
 ### ☁️ **Cloud & Infrastructure**
 
@@ -148,7 +148,7 @@ hobbies: ["🚀 Automatización", "☁️ Cloud Computing", "🐧 Linux", "📚 
 
 ---
 
-## 📈 **Contribuciones**
+## 📈 **Contributions**
 
 <div align="center">
   
@@ -172,22 +172,22 @@ hobbies: ["🚀 Automatización", "☁️ Cloud Computing", "🐧 Linux", "📚 
 
 ---
 
-## 💼 **Proyectos Destacados**
+## 💼 **Featured Projects**
 
 <div align="center">
   
-| 🚀 Proyecto | 📝 Descripción | 🛠️ Tecnologías |
+| 🚀 Project | 📝 Description | 🛠️ Technologies |
 |------------|----------------|----------------|
-| **CI/CD Pipeline** | Pipeline automatizado multi-cloud | Jenkins, Docker, Kubernetes, AWS |
-| **IaC Infrastructure** | Infraestructura como código escalable | Terraform, Ansible, AWS |
-| **K8s Cluster** | Cluster Kubernetes gestionado | Kubernetes, Helm, Prometheus, Grafana |
-| **Monitoring Stack** | Stack completo de monitoreo y observabilidad | ELK, Prometheus, Grafana, Loki |
+| **CI/CD Pipeline** | Multi-cloud automated pipeline | Jenkins, Docker, Kubernetes, AWS |
+| **IaC Infrastructure** | Scalable Infrastructure as Code | Terraform, Ansible, AWS |
+| **K8s Cluster** | Managed Kubernetes cluster | Kubernetes, Helm, Prometheus, Grafana |
+| **Monitoring Stack** | Complete monitoring and observability stack | ELK, Prometheus, Grafana, Loki |
   
 </div>
 
 ---
 
-## 📚 **Certificaciones**
+## 📚 **Certifications**
 
 <div align="center">
   
@@ -204,25 +204,25 @@ hobbies: ["🚀 Automatización", "☁️ Cloud Computing", "🐧 Linux", "📚 
 
 <div align="center">
   
-  ✍️ **Escribiendo sobre DevOps, Cloud y Automatización**
+  ✍️ **Writing about DevOps, Cloud, and Automation**
   
 </div>
 
 ---
 
-## 🤝 **Colaboraciones**
+## 🤝 **Collaborations**
 
 <div align="center">
   
-  💡 **Siempre abierto a colaborar en proyectos interesantes de DevOps y Cloud**
+  💡 **Always open to collaborate on interesting DevOps and Cloud projects**
   
-  📧 **Contáctame:** [robpalacios1@hotmail.com](mailto:robpalacios1@hotmail.com)
+  📧 **Contact me:** [robpalacios1@hotmail.com](mailto:robpalacios1@hotmail.com)
   
 </div>
 
 ---
 
-## 📊 **Estadísticas de Visitas**
+## 📊 **Profile Views**
 
 <div align="center">
   
@@ -236,6 +236,6 @@ hobbies: ["🚀 Automatización", "☁️ Cloud Computing", "🐧 Linux", "📚 
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Footer" />
   
-  ### ⭐ **Si te gusta lo que ves, no dudes en darle una estrella!** ⭐
+  ### ⭐ **If you like what you see, feel free to give it a star!** ⭐
   
 </div>
