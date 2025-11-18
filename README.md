@@ -162,11 +162,7 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robpalacios1/robpalacios1/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robpalacios1/robpalacios1/output/dist/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/robpalacios1/robpalacios1/output/dist/github-contribution-grid-snake.svg" />
-  </picture>
+  ![Snake animation](https://github.com/robpalacios1/robpalacios1/blob/output/dist/github-contribution-grid-snake.svg)
   
 </div>
 
