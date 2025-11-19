@@ -198,7 +198,7 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate" width="150" height="150" />
   </a>
   <a href="https://www.credly.com/badges/1f382da1-7902-410f-99f7-6965766888e5" target="_blank">
-    <img src="  " alt="AWS Introduction to Generative AI" width="150" height="150" />
+    <img src="https://images.credly.com/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/linkedin_thumb_blob" alt="AWS Introduction to Generative AI" width="150" height="150" />
   </a>
 </div>
 
