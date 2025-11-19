@@ -192,7 +192,7 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 <div align="center">
   
   <a href="https://www.credly.com/badges/52447874-a217-4057-9139-2352ba7160cc" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-b6c0-4baa6c38c8f6/AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS Certified Cloud Practitioner" width="150" height="150" />
+    <img src="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" alt="AWS Certified Cloud Practitioner" width="150" height="150" />
   </a>
   <a href="https://www.credly.com/badges/970ee258-bd85-4528-bc19-6d37a63a2f7d" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate" width="150" height="150" />
