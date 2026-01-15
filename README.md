@@ -139,7 +139,7 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 
 ## 🌟 **Expertise & Specializations**
 
-<div align="center">
+<div align="left">
   
   ### 🔥 **Core Competencies**
   
