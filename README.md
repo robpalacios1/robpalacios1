@@ -46,15 +46,13 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 
 ### ☁️ **Cloud & Infrastructure**
 
-<div align="center">
-  
+<div align="left">
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=232F3E)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0089D6)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=7B42BC)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=EE0000)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF4F8B)
-  
 </div>
 
 ### 🐳 **Containers & Orchestration**
@@ -156,7 +154,7 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
   | **CI/CD** | Jenkins, GitLab CI, GitHub Actions, ArgoCD |
   | **Monitoring** | Prometheus, Grafana, ELK Stack |
   | **Scripting** | Python, Bash, PowerShell |
-  | **Security** | HashiCorp Vault, Snyk, Security Best Practices |
+  | **Security** | HashiCorp Vault, Security Best Practices |
   
   ### 🎓 **Continuous Learning**
   
