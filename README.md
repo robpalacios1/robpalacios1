@@ -46,68 +46,58 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 
 ### ☁️ **Cloud & Infrastructure**
 
-<div align="center">
-  
+<div align="left">
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=232F3E)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0089D6)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=7B42BC)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=EE0000)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF4F8B)
-  
 </div>
 
 ### 🐳 **Containers & Orchestration**
 
-<div align="center">
+<div align="left">
   
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white&labelColor=0F1689)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white&labelColor=0075A8)
-  
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white&labelColor=0F1689)  
 </div>
 
 ### 🔄 **CI/CD & Automation**
 
-<div align="center">
+<div align="left">
   
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=D24939)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=FC6D26)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=2088FF)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white&labelColor=343434)
 ![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=EF7B4D)
-  
 </div>
 
 ### 💻 **Scripting & Languages**
 
-<div align="center">
+<div align="left">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=3776AB)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=4EAA25)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=5391FE)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white&labelColor=CB171E)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=000000)
-  
 </div>
 
 ### 🔒 **Security & Monitoring**
 
-<div align="center">
+<div align="left">
   
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=F46800)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white&labelColor=005571)
 ![Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white&labelColor=000000)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white&labelColor=4C4A73)
-  
 </div>
 
 ### 🗄️ **Databases & Tools**
 
-<div align="center">
+<div align="left">
   
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
@@ -115,34 +105,58 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)
+</div>
+
+---
+
+## 🎯 **Key Achievements & Highlights**
+
+<div align="left">
+  
+  ### 🏅 **Professional Milestones**
+  
+  | **Achievement** | **Description** |
+  |-----------------|-----------------|
+  | ☁️ **Cloud Architect** | Designing and implementing scalable cloud infrastructures |
+  | 🚀 **DevOps Specialist** | Automating CI/CD pipelines and infrastructure deployment |
+  | 🔧 **Infrastructure as Code** | Expert in Terraform, Ansible, and CloudFormation |
+  | 🐳 **Container Orchestration** | Kubernetes and Docker expertise |
+  | 📊 **Monitoring & Observability** | Implementing comprehensive monitoring solutions |
+  | 🔒 **Security-First Approach** | Building secure and compliant systems |
+  
+  ### 💡 **Current Focus Areas**
+  
+  | **Focus Area** | **Description** |
+  |----------------|-----------------|
+  | **Kubernetes** | Container orchestration and cluster management |
+  | **Terraform** | Infrastructure provisioning and automation |
+  | **AWS Cloud Services** | Multi-service cloud architecture |
+  | **CI/CD Pipelines** | Continuous integration and deployment automation |
   
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🌟 **Expertise & Specializations**
 
-<div align="center">
+<div align="left">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" />
+  ### 🔥 **Core Competencies**
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&hide=html,css" alt="Top Languages" />
+  | **Domain** | **Technologies & Tools** |
+  |------------|---------------------------|
+  | **Cloud Platforms** | AWS, Azure |
+  | **Infrastructure** | Terraform, Ansible, CloudFormation |
+  | **Containers** | Docker, Kubernetes, Helm |
+  | **CI/CD** | Jenkins, GitLab CI, GitHub Actions, ArgoCD |
+  | **Monitoring** | Prometheus, Grafana, ELK Stack |
+  | **Scripting** | Python, Bash, PowerShell |
+  | **Security** | HashiCorp Vault, Security Best Practices |
   
-</div>
-
-<div align="center">
+  ### 🎓 **Continuous Learning**
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robpalacios1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats" />
+  Always exploring new technologies and methodologies to stay at the forefront of DevOps and Cloud Engineering.
   
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=robpalacios1&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
