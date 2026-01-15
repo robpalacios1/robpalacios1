@@ -126,19 +126,23 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
   
   ### 🏅 **Professional Milestones**
   
-  - ☁️ **Cloud Architect** - Designing and implementing scalable cloud infrastructures
-  - 🚀 **DevOps Specialist** - Automating CI/CD pipelines and infrastructure deployment
-  - 🔧 **Infrastructure as Code** - Expert in Terraform, Ansible, and CloudFormation
-  - 🐳 **Container Orchestration** - Kubernetes and Docker expertise
-  - 📊 **Monitoring & Observability** - Implementing comprehensive monitoring solutions
-  - 🔒 **Security-First Approach** - Building secure and compliant systems
+  | **Achievement** | **Description** |
+  |-----------------|-----------------|
+  | ☁️ **Cloud Architect** | Designing and implementing scalable cloud infrastructures |
+  | 🚀 **DevOps Specialist** | Automating CI/CD pipelines and infrastructure deployment |
+  | 🔧 **Infrastructure as Code** | Expert in Terraform, Ansible, and CloudFormation |
+  | 🐳 **Container Orchestration** | Kubernetes and Docker expertise |
+  | 📊 **Monitoring & Observability** | Implementing comprehensive monitoring solutions |
+  | 🔒 **Security-First Approach** | Building secure and compliant systems |
   
   ### 💡 **Current Focus Areas**
   
-  - **Kubernetes** - Container orchestration and cluster management
-  - **Terraform** - Infrastructure provisioning and automation
-  - **AWS Cloud Services** - Multi-service cloud architecture
-  - **CI/CD Pipelines** - Continuous integration and deployment automation
+  | **Focus Area** | **Description** |
+  |----------------|-----------------|
+  | **Kubernetes** | Container orchestration and cluster management |
+  | **Terraform** | Infrastructure provisioning and automation |
+  | **AWS Cloud Services** | Multi-service cloud architecture |
+  | **CI/CD Pipelines** | Continuous integration and deployment automation |
   
 </div>
 
