@@ -120,29 +120,50 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🎯 **Key Achievements & Highlights**
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robpalacios1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" />
+  ### 🏅 **Professional Milestones**
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robpalacios1&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&hide=html,css" alt="Top Languages" />
+  - ☁️ **Cloud Architect** - Designing and implementing scalable cloud infrastructures
+  - 🚀 **DevOps Specialist** - Automating CI/CD pipelines and infrastructure deployment
+  - 🔧 **Infrastructure as Code** - Expert in Terraform, Ansible, and CloudFormation
+  - 🐳 **Container Orchestration** - Kubernetes and Docker expertise
+  - 📊 **Monitoring & Observability** - Implementing comprehensive monitoring solutions
+  - 🔒 **Security-First Approach** - Building secure and compliant systems
   
-</div>
-
-<div align="center">
+  ### 💡 **Current Focus Areas**
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robpalacios1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats" />
+  - **Kubernetes** - Container orchestration and cluster management
+  - **Terraform** - Infrastructure provisioning and automation
+  - **AWS Cloud Services** - Multi-service cloud architecture
+  - **CI/CD Pipelines** - Continuous integration and deployment automation
   
 </div>
 
 ---
 
-## 🏆 **GitHub Trophies**
+## 🌟 **Expertise & Specializations**
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=robpalacios1&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+  ### 🔥 **Core Competencies**
+  
+  | **Domain** | **Technologies & Tools** |
+  |------------|---------------------------|
+  | **Cloud Platforms** | AWS, Azure |
+  | **Infrastructure** | Terraform, Ansible, CloudFormation |
+  | **Containers** | Docker, Kubernetes, Helm |
+  | **CI/CD** | Jenkins, GitLab CI, GitHub Actions, ArgoCD |
+  | **Monitoring** | Prometheus, Grafana, ELK Stack |
+  | **Scripting** | Python, Bash, PowerShell |
+  | **Security** | HashiCorp Vault, Snyk, Security Best Practices |
+  
+  ### 🎓 **Continuous Learning**
+  
+  Always exploring new technologies and methodologies to stay at the forefront of DevOps and Cloud Engineering.
+  
 </div>
 
 ---
