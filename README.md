@@ -57,7 +57,7 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 
 ### 🐳 **Containers & Orchestration**
 
-<div align="center">
+<div align="left">
   
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5)
@@ -66,30 +66,28 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 
 ### 🔄 **CI/CD & Automation**
 
-<div align="center">
+<div align="left">
   
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=D24939)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=FC6D26)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=2088FF)
 ![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=EF7B4D)
-  
 </div>
 
 ### 💻 **Scripting & Languages**
 
-<div align="center">
+<div align="left">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=3776AB)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=4EAA25)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=5391FE)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white&labelColor=CB171E)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=000000)
-  
 </div>
 
 ### 🔒 **Security & Monitoring**
 
-<div align="center">
+<div align="left">
   
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=F46800)
@@ -99,7 +97,7 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 
 ### 🗄️ **Databases & Tools**
 
-<div align="center">
+<div align="left">
   
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
@@ -107,14 +105,13 @@ hobbies: ["🚀 Automation", "☁️ Cloud Computing", "🐧 Linux", "📚 Conti
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)
-  
 </div>
 
 ---
 
 ## 🎯 **Key Achievements & Highlights**
 
-<div align="center">
+<div align="left">
   
   ### 🏅 **Professional Milestones**
   
