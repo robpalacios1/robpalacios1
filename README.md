@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I%27m+Roberto+Palacios;%F0%9F%9A%80+DevOps+Engineer;%E2%98%81%EF%B8%8F+Cloud+Architect;%F0%9F%92%BB+Infrastructure+as+Code;%F0%9F%9B%A0%EF%B8%8F+Automation+Enthusiast;%F0%9F%94%A5+CI%2FCD+Specialist)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I%27m+Roberto+Palacios;%F0%9F%9A%80+DevOps+Engineer;%E2%98%81%EF%B8%8F+Cloud+Engineer;%F0%9F%92%BB+Infrastructure+as+Code;%F0%9F%9B%A0%EF%B8%8F+Automation+Enthusiast;%F0%9F%94%A5+CI%2FCD+Specialist)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=🚀%20DevOps%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
   
